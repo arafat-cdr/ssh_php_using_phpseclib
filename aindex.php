@@ -5,7 +5,7 @@ require __DIR__ . '/vendor/autoload.php';
 use phpseclib3\Net\SSH2;
 use phpseclib3\Crypt\PublicKeyLoader;
 
-$host = '13.230.183.250';
+$host = 'x.x.x.x';
 $username = 'ubuntu';
 $privateKey = '/var/www/html/quick_test/ssh_php/keys/rathik_private_key.pem';
 
